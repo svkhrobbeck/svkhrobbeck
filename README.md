@@ -1,6 +1,6 @@
-# Hi there 👋, Sukhrobbek Soatov
+# Sukhrobbek Soatov
 #### I am Front-End developer
-![I am Front-End developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Front-End developer](https://raw.githubusercontent.com/sukhrobbeksoatov/sukhrobbeksoatov/main/images/banner-github.png)
 
 My name is Sukhrobbek Soatov, I'm 17 years old, I was born in 2005 in Samarkand. I'm a Front-end developer. I'm currently studying at Humosoft IT Academy.  My goals are big, after finishing the course, I want to gain experience in a good company and work on myself.
 
