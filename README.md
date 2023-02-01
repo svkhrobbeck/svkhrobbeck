@@ -1,23 +1,14 @@
-<h3 align="center">A Front-end developer from Uzbekistan</h3>
+### Hi there 👋, Sukhrobbek Soatov
+#### I am Front-End developer
+![I am Front-End developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhrobbeksoatov&label=Profile%20views&color=0e75b6&style=flat" alt="sukhrobbeksoatov" /> </p>
+My name is Sukhrobbek Soatov, I'm 17 years old, I was born in 2005 in Samarkand. I'm a Front-end developer. I'm currently studying at Humosoft IT Academy.  My goals are big, after finishing the course, I want to gain experience in a good company and work on myself.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobbeksoatov" alt="sukhrobbeksoatov" /></a> </p>
+Skills: HTML, CSS, SCSS, Bootstrap, JS
 
-- 🌱 I’m currently learning **HTML, CSS, SCSS, Bootstrap, JS, ReactJS**
+- 🌱 I’m currently learning HTML, CSS, SCSS, Bootstrap, JS, ReactJS  
 
-- 📫 How to reach me **suhrobbek_soatov@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/suhrobbek_soatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhrobbek_soatov" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sukhrobbeksoatov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/suhrobbek_soatov/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhrobbeksoatov&show_icons=true&locale=en&layout=compact" alt="sukhrobbeksoatov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhrobbeksoatov&show_icons=true&locale=en" alt="sukhrobbeksoatov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhrobbeksoatov&" alt="sukhrobbeksoatov" /></p>
+![Profile views](https://gpvc.arturio.dev/sukhrobbeksoatov)  
