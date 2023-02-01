@@ -1,4 +1,4 @@
-### Hi there 👋, Sukhrobbek Soatov
+# Hi there 👋, Sukhrobbek Soatov
 #### I am Front-End developer
 ![I am Front-End developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
