@@ -1,4 +1,4 @@
-# Hi there 👋, Sukhrobbek Soatov
+# Sukhrobbek Soatov
 #### I am Front-End developer
 ![I am Front-End developer](https://raw.githubusercontent.com/sukhrobbeksoatov/sukhrobbeksoatov/main/images/banner-github.png)
 
