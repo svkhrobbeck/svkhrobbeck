@@ -4,9 +4,9 @@
 
 My name is Sukhrobbek Soatov, I'm 18 years old, I was born in 2005 in Samarkand. I'm a Front-end developer. I'm currently studying at Humosoft IT Academy.  My goals are big, after finishing the course, I want to gain experience in a good company and work on myself.
 
-Skills: HTML, CSS, SCSS, Bootstrap, JS
+Skills: HTML, CSS, SCSS, Bootstrap, TailwindCss JS, Redux, ReactJs
 
-- 🌱 I’m currently learning HTML, CSS, SCSS, Bootstrap, JS, ReactJS  
+- 🌱 I’m currently learning ReactJS, TypeScript and NextJs  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
