@@ -6,4 +6,4 @@ Hi there! I'm Suhrobbek, a full-stack web developer from Uzbekistan. I take plea
 
 - [Telegram](https://t.me/svkhrobbeck/)
 - [LinkedIn](https://www.linkedin.com/in/svkhrobbeck/)
-- [Instagram](https://instagram.com/svkhrobbeck/)
+- [Instagram](https://instagram.com/zutsio/)
