@@ -2,6 +2,8 @@
 
 Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passionate full-stack web developer from Uzbekistan, dedicated to building modern, efficient, and scalable web applications. I thrive on challenges and enjoy turning ideas into impactful digital solutions. 
 
+<a href="https://soatov.uz/resume.pdf" target="_blank">Resume</a>
+
 ---
 
 ## Tech Stack
