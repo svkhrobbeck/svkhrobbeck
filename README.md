@@ -1,10 +1,10 @@
-# 👨‍💻 Suhrobbek Soatov — Full-Stack Developer
+# Suhrobbek Soatov — Full-Stack Developer
 
 Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passionate full-stack web developer from Uzbekistan, dedicated to building modern, efficient, and scalable web applications. I thrive on challenges and enjoy turning ideas into impactful digital solutions. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages & Frameworks**:  
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -22,7 +22,7 @@ Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passio
 
 ---
 
-## 🌟 What I’m Currently Working On
+## What I’m Currently Working On
 
 - 🛠 Developing Telegram bots using **grammy** and **TypeScript** for seamless automation  
 - 🚀 Crafting fast, SEO-optimized, and accessible web applications with **Next.js**  
@@ -31,7 +31,7 @@ Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passio
 
 ---
 
-## 🌱 My Interests
+## My Interests
 
 - Exploring **new front-end frameworks** and design systems  
 - Optimizing performance for large-scale web applications  
@@ -40,7 +40,7 @@ Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passio
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to connect with me and explore my work:  
 - [Telegram](https://t.me/svkhrobbeck/)  
