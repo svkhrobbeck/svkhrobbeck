@@ -38,7 +38,7 @@ Hi there! I'm **Suhrobbek Soatov**, but most know me as **Zutsiy**. I'm a passio
 - Exploring **new front-end frameworks** and design systems  
 - Optimizing performance for large-scale web applications  
 - Experimenting with **serverless architectures**  
-- **Anime enthusiast** 🎥 (Bleach, Attack on Titan, and always looking for recommendations!)
+- **Anime enthusiast** 🎥 (Bleach, One Piece, Naruto, Attack on Titan, and always looking for recommendations!)
 
 ---
 
